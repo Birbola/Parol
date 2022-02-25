@@ -6,8 +6,8 @@ let box_3 = document.querySelector('.box-3')
 
 form.addEventListener('click' , (event) => {
   event.preventDefault();
-  let a = input.valuedad
-  if(a == 'Birbola'){1
+  let a = input.value
+  if(a == '777'){
     box_1.classList.add('box-active')
     box_2.classList.add('box-active')
     box_3.classList.add('box-active')
